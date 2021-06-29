@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chisompreciousc007
 - 👀 I’m interested in web/mobile apps
-- 🌱 I’m currently learning open source projects
-- 💞️ I’m looking to collaborate on projects relating to web development on PHP,JAVASCRIPT AND REACTJS
+- 🌱 I’m currently learning how to contribute to open source projects
+- 💞️ I’m looking to collaborate on projects relating to  PHP,JAVASCRIPT AND REACT
 - 📫 How to reach me chisompreciousc007@gmail.com
 
 <!---
